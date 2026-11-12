@@ -5,6 +5,13 @@
 
 **South Africa • Morocco • Egypt • Saudi • UAE • China**
 
+### 🧠 BA + MI + INSIGHTS IN ONE PROJECT
+
+| MI | INSIGHTS | BA |
+| :---: | :---: | :---: |
+| **What happened?** | **Why did it happen?** | **What do we do?** |
+| 4 charts, clean numbers | Egypt's spike = 1 deal | SA Golden Licence + Pick 2 Winners |
+
 </div>
 
 ---
@@ -57,8 +64,6 @@
 </div>
 
 **What you are looking at:**
-This is the ONLY chart that shows all 4 things at once for all 6 countries + Egypt without the mega-deal:
-
 - **Blue = FDI 2023 ($M)**
 - **Red = FDI 2024 ($M)**
 - **Orange = Change %**
@@ -66,15 +71,12 @@ This is the ONLY chart that shows all 4 things at once for all 6 countries + Egy
 
 **What it proves in 5 seconds:**
 
-1.  **China is in a different league** — That giant blue/red tower on the right is $163,250M. Nobody else is even close. That's scale.
-2.  **Egypt's spike is a one-off** — See Egypt's red bar shooting up? That's the $35B Ras El-Hekma deal. Look at the next bar — "Egypt (without mega deal)" — back down to normal. Without that ONE deal, Egypt looks like everyone else.
-3.  **SA & Morocco are tiny but steady** — Our bars are small, but we didn't crash. We just didn't grow fast enough.
-4.  **Manufacturing tells the real story** — Even with huge FDI, China also has 26.2% manufacturing. Money alone is not enough, you have to MAKE things.
+1.  **China is in a different league** — $163,250M. Nobody else is even close.
+2.  **Egypt's spike is a one-off** — $35B Ras El-Hekma deal. Without it, Egypt is back to normal.
+3.  **SA & Morocco are tiny but steady** — Small bars, didn't crash, just didn't grow fast enough.
+4.  **Manufacturing tells the real story** — Money alone is not enough, you have to MAKE things.
 
-> **My BA takeaway:** Don't be fooled by one big bar. Egypt won 2024 because of one deal. China wins every year because of factories. SA needs to be more like Morocco — small money, big factories — and less impressed by headlines.
-
-**Why I included this chart:**
-Most people show you 3 separate charts. I wanted one chart where a recruiter can see the full picture without clicking around. It's messy on purpose — real data is messy. The separate clean charts are above, this is the honest full view.
+> **My BA takeaway:** Don't be fooled by one big bar. Egypt won 2024 because of one deal. China wins every year because of factories. SA needs to be more like Morocco — small money, big factories.
 
 ---
 
@@ -103,19 +105,17 @@ One licence. 30-day decision. Like Saudi MISA + UAE Golden Visa.
 EV + Battery + Green Hydrogen. Copy Morocco. Don't try to do everything.
 
 **3. FIX THE 3 BLOCKERS FIRST** 🔌
-Energy. Ease. Speed. Investors don't need more incentives; they need certainty.
+Energy. Ease. Speed. Investors don't need more incentives, they need certainty.
 
-## 🛠️ TOOLS USED
-- Google Sheets / Excel — Data cleaning, modelling & charts
-- Business Analysis — Comparative analysis, benchmarking & recommendations
-- Data Storytelling — Dashboard design
+## 🛠️ SKILLS THIS PROJECT SHOWS
+**Business Analysis • Management Information (MI) • Insights Analysis • Excel • Data Storytelling**
 
 ---
 
 <div align="center">
 
 ### 👩🏾‍💻 Built by a Future BA from Johannesburg
-**FDI • Industrial Policy • Data Storytelling**
+**BA • MI • Insights**
 
 *Made to be seen. Made to get interviews.*
 
