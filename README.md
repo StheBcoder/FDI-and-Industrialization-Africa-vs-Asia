@@ -1,13 +1,9 @@
-  <div align="center">
+<div align="center">
 
 # ✨ FDI & INDUSTRIALISATION ✨
 ### Africa vs Asia — Why SA Is Falling Behind & What To Copy
 
-![Badge](https://img.shields.io/badge/Business_Analysis-Portfolio-gold)
-![Badge](https://img.shields.io/badge/FDI-6_Countries-black)
-![Badge](https://img.shields.io/badge/Excel-Dashboard-pink)
-
-South Africa • Morocco • Egypt • Saudi • UAE • China
+**South Africa • Morocco • Egypt • Saudi • UAE • China**
 
 </div>
 
@@ -28,6 +24,60 @@ South Africa • Morocco • Egypt • Saudi • UAE • China
 
 ---
 
+<div align="center">
+
+## 📊 THE GRAPHS — SEE IT FOR YOURSELF
+
+### 1. FDI 2024 ($M) — Who Gets The Money?
+![FDI 2024](fdi-2024.png)
+
+> China is the giant. SA is tiny. This is the gap we need to close.
+
+### 2. Manufacturing % of GDP — Who Actually Makes Things?
+![Manufacturing](manufacturing.png)
+
+> China 26.2% vs SA 12.25%. Morocco is beating us with less money.
+
+### 3. Change in FDI 2023 → 2024 (%) — Who Is Rising?
+![Change in FDI](change-fdi.png)
+
+> Egypt +257% from ONE mega-deal. China -29%. Speed wins.
+
+</div>
+
+---
+
+<div align="center">
+
+## 👑 THE FINAL CHART — EVERYTHING TOGETHER
+
+### FDI - Africa vs Asia: The Full Comparison
+![Everything Comparison](comparison-everything.png)
+
+</div>
+
+**What you are looking at:**
+This is the ONLY chart that shows all 4 things at once for all 6 countries + Egypt without the mega-deal:
+
+- **Blue = FDI 2023 ($M)**
+- **Red = FDI 2024 ($M)**
+- **Orange = Change %**
+- **Green = Manufacturing % of GDP**
+
+**What it proves in 5 seconds:**
+
+1.  **China is in a different league** — That giant blue/red tower on the right is $163,250M. Nobody else is even close. That's scale.
+2.  **Egypt's spike is a one-off** — See Egypt's red bar shooting up? That's the $35B Ras El-Hekma deal. Look at the next bar — "Egypt (without mega deal)" — back down to normal. Without that ONE deal, Egypt looks like everyone else.
+3.  **SA & Morocco are tiny but steady** — Our bars are small, but we didn't crash. We just didn't grow fast enough.
+4.  **Manufacturing tells the real story** — Even with huge FDI, China also has 26.2% manufacturing. Money alone is not enough, you have to MAKE things.
+
+> **My BA takeaway:** Don't be fooled by one big bar. Egypt won 2024 because of one deal. China wins every year because of factories. SA needs to be more like Morocco — small money, big factories — and less impressed by headlines.
+
+**Why I included this chart:**
+Most people show you 3 separate charts. I wanted one chart where a recruiter can see the full picture without clicking around. It's messy on purpose — real data is messy. The separate clean charts are above, this is the honest full view.
+
+---
+
 ## 👑 THE STORY IN 10 SECONDS
 
 > **Morocco** turned small FDI into EV factories.
@@ -35,19 +85,14 @@ South Africa • Morocco • Egypt • Saudi • UAE • China
 > **Saudi & UAE** made investing FAST with a Golden Licence.
 > **SA** is still stuck on energy, ease & speed.
 
-This is not just data. This is a story about **speed wins**.
+## 📂 WHAT'S INSIDE THIS REPO
 
-## 📂 WHAT'S INSIDE
-
-- **📊 `FDI_Analysis.xlsx`** — Clean model + 3 luxury charts
-- **🖼️ `Dashboard.png`** — Black & gold dashboard, 3 pages
+- **📊 `FDI_Analysis.xlsx`** — Clean model + all charts
+- **🖼️ `fdi-2024.png`** — Graph 1
+- **🖼️ `manufacturing.png`** — Graph 2
+- **🖼️ `change-fdi.png`** — Graph 3
+- **🖼️ `comparison-everything.png`** — Final Boss Chart
 - **📄 `README.md`** — You are reading it
-
-## 📊 THE 3 CHARTS
-
-1.  **FDI 2024 ($M)** — China giant, SA tiny
-2.  **Manufacturing % of GDP** — China 26.2%, SA 12.25%
-3.  **Change 2023 → 2024 (%)** — Egypt +257% 🚀, China -29% 📉
 
 ## 💡 MY 3 RECOMMENDATIONS FOR SA
 
@@ -58,7 +103,12 @@ One licence. 30-day decision. Like Saudi MISA + UAE Golden Visa.
 EV + Battery + Green Hydrogen. Copy Morocco. Don't try to do everything.
 
 **3. FIX THE 3 BLOCKERS FIRST** 🔌
-Energy. Ease. Speed. Investors don't need more incentives, they need certainty.
+Energy. Ease. Speed. Investors don't need more incentives; they need certainty.
+
+## 🛠️ TOOLS USED
+- Google Sheets / Excel — Data cleaning, modelling & charts
+- Business Analysis — Comparative analysis, benchmarking & recommendations
+- Data Storytelling — Dashboard design
 
 ---
 
